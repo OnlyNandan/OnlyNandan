@@ -80,21 +80,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OnlyNandan&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=OnlyNandan&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
-
 ## 🐍 Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/OnlyNandan/OnlyNandan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-## 📈 More Awesome Widgets
-
-### Profile Views Counter
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=OnlyNandan&label=Profile%20views&color=0e75b6&style=flat" alt="OnlyNandan" />
 </div>
 
 ### GitHub Profile Summary Cards
@@ -106,4 +94,14 @@
 ### Metrics (Advanced Stats)
 <div align="center">
   <img src="https://metrics.lecoq.io/OnlyNandan?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FNew_York" />
-```
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=OnlyNandan&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</div>
+
+### Profile Views Counter
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=OnlyNandan&label=Profile%20views&color=0e75b6&style=flat" alt="OnlyNandan" />
+</div>
