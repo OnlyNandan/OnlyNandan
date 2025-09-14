@@ -66,7 +66,7 @@
 ### Main Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=onlynandan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onlynandan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=onlynandan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ### Streak Stats
@@ -84,3 +84,26 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=OnlyNandan&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </div>
+
+## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/OnlyNandan/OnlyNandan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+## 📈 More Awesome Widgets
+
+### Profile Views Counter
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=OnlyNandan&label=Profile%20views&color=0e75b6&style=flat" alt="OnlyNandan" />
+</div>
+
+### GitHub Profile Summary Cards
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OnlyNandan&theme=radical" />
+</div>
+
+
+### Metrics (Advanced Stats)
+<div align="center">
+  <img src="https://metrics.lecoq.io/OnlyNandan?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FNew_York" />
+```
