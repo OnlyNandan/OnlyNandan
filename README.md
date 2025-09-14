@@ -82,18 +82,13 @@
 
 ## 🐍 Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/OnlyNandan/OnlyNandan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/OnlyNandan/OnlyNandan/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/OnlyNandan/OnlyNandan/output/snake-dark.svg" alt="Snake animation" />
 </div>
 
 ### GitHub Profile Summary Cards
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OnlyNandan&theme=radical" />
-</div>
-
-
-### Metrics (Advanced Stats)
-<div align="center">
-  <img src="https://metrics.lecoq.io/OnlyNandan?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FNew_York" />
 </div>
 
 ## 🏆 GitHub Trophies
