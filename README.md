@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Flask-%20-black?style=for-the-badge&logo=flask&logoColor=white" height="28" alt="Flask" />
+  <img src="https://cdn.simpleicons.org/flask/ffffff" height="40" alt="Flask White" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img width="12" />
@@ -47,7 +47,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg#gh-dark-mode-only" height="40" alt="GitHub" />  <img width="12" />
 </div>
 
 ### Hardware & Embedded (personal / projects)
