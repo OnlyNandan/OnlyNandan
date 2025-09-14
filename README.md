@@ -14,8 +14,6 @@
   </a>
 </div>
 
-#Techstack
-
 ## 🛠️ Tech Stack & Skills
 
 ### Languages
